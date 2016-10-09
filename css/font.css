@@ -1,0 +1,118 @@
+@font-face {
+ font-family: 'estrewebfont';
+ src: url('./estrewebfont.eot');
+ src: local('estrewebfont'), url('./estrewebfont.woff') format('woff'), url('./estrewebfont.ttf') format('truetype');
+}
+@font-face {
+ font-family: 'NexaFreeLightwebfont';
+ src: url('./NexaFreeLightwebfont.eot');
+ src: local('NexaFreeLightwebfont'), url('./NexaFreeLightwebfont.woff') format('woff'), url('./NexaFreeLightwebfont.ttf') format('truetype');
+}
+@font-face {
+ font-family: 'apexnewlightwebfont';
+ src: url('./apexnewlightwebfont.eot');
+ src: local('apexnewlightwebfont'), url('./apexnewlightwebfont.woff') format('woff'), url('./apexnewlightwebfont.ttf') format('truetype');
+}
+@font-face{
+ font-family:banana;
+ src: url(banana.ttf);
+}
+@font-face{
+ font-family:bulldozer;
+ src: url(bulldozer.ttf);
+}
+@font-face{
+ font-family:bespoke;
+ src: url(bespoke.otf);
+}
+@font-face{
+ font-family:jeboy;
+ src: url(JeboyFree.ttf);
+}
+@font-face{
+ font-family:ubuntu;
+ src: url(Ubuntu-M.ttf);
+}
+@font-face{
+ font-family:bespoke;
+ src: url(bespoke.ttf);
+}
+@font-face{
+ font-family:dosis;
+ src: url(Dosis-Regular.otf);
+}
+@font-face{
+ font-family:exo;
+ src: url(Exo2-Medium.otf);
+}
+@font-face{
+ font-family:remachine;
+ src: url(remachine.ttf);
+}
+@font-face{
+ font-family:TexasToast;
+ src: url(TexasToast.ttf);
+}
+@font-face{
+ font-family:btb;
+ src: url(btb.ttf);
+}
+
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_1517">Text with this font applied</p> */
+.logo {
+ font-family: 'TexasToast' !important;
+ font-size: 30px !important;
+} 
+.jumbotron{
+ background-color:dimgrey!important;
+}
+
+.page{
+ font-family: TexasToast;
+ font-size: 30px!important;
+ font-weight: bolder;
+ color: midnightblue!important;
+}
+.my-nav{
+ background-color: midnightblue;
+}
+.my-nav2{
+ background-color: ghostwhite;
+}
+.maindiv{
+  background-color: ghostwhite;
+}
+.well 
+{
+ background-color: dimgray !important;
+ color:ghostwhite !important;
+ font-family: 'dosis' !important;
+ text-align: justify;
+}
+.img-thumbnail
+{
+ height:150px!important;
+ width: 304px!important;
+ vertical-align: middle;
+}
+.back
+{
+ font-size: 18px!important;
+ font-weight: 100!important;
+}
+.p-font{
+ font-family: 'dosis' !important;
+ font-size: 16px !important;
+ font-weight:700;
+ font-stretch: extra-condensed;
+ color: ghostwhite;
+}
+.h-font
+{
+ font-family: 'dosis' !important;
+ font-size: 23px !important;
+ color: ghostwhite !important;
+}
+
+
+/* Font downloaded from FontsForWeb.com */
