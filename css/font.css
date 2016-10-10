@@ -88,6 +88,9 @@
  color:ghostwhite !important;
  font-family: 'dosis' !important;
  text-align: justify;
+ font-size:16px !important;
+ color: oldlace !important;
+ 
 }
 .img-thumbnail
 {
@@ -105,13 +108,13 @@
  font-size: 16px !important;
  font-weight:700;
  font-stretch: extra-condensed;
- color: ghostwhite;
+ color: oldlace!important;
 }
 .h-font
 {
  font-family: 'dosis' !important;
  font-size: 23px !important;
- color: ghostwhite !important;
+ color: oldlace!important;
 }
 
 
